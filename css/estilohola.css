@@ -1,0 +1,65 @@
+body {background: white url(../imagenes/fondo.png)
+  no-repeat fixed center;
+}
+
+header {background-color: white;}
+nav {background-color: white; font-family: verdana;font-size: small;
+ text-align: center; }
+aside {background-color: white;
+border: 3px black solid; align-items: center;}
+footer {background-color:#34495E;}
+
+.tituloprincipal {color: #1A5276; background-color: white; font-family: verdana; font-size: xx-large;
+ text-decoration: underline; text-align: center;}
+
+.IMAGENTORTA {
+ width: 380px;
+ height: 300px;
+ position: relative;
+left: 480px;
+}
+
+.tituloreceta {color: white; font-family: Verdana; font-size: large;
+text-decoration: underline; text-align: center;}
+.tituloreceta1 {color: black; font-family: Verdana; font-size: large;
+text-decoration: underline; text-align: center;}
+.listaingredientes {color: white; font-family: Verdana; font-size: small;}
+.listaingredientes  {text-align: center;
+}
+
+.listaingredientes ul {
+	text-align: left;
+	display: inline-block;
+}
+.listaingredientes ol {
+  text-align: left;
+  display: inline-block;
+}
+
+.listaingredientes1 {color: black; font-family: Verdana; font-size: small;}
+.listaingredientes1  {text-align: center;
+}
+
+.listaingredientes1 ul {
+	text-align: left;
+	display: inline-block;
+}
+.listaingredientes1 ol {
+  text-align: left;
+  display: inline-block;
+}
+
+.cuerpotexto {color: white; font-family: verdana; font-size: small; align-items: center;
+ text-align: center;}
+
+.instagram {width: 30px;
+position: relative;
+left: 580px;}
+.facebook {width: 30px;
+position: relative;
+left: 620px;}
+
+.iconowhatsapp {width: 50px;
+position: fixed;
+bottom: 10px;
+right: 15px;}
